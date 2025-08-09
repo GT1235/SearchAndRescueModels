@@ -6,4 +6,5 @@ This research made the use of the SaRNet dataset by Michael Thoreau and Frazer W
 
 References:
 https://github.com/michaelthoreau/SearchAndRescueNet
+
 Thoreau, M., & Wilson, F. (2021). SaRNet: A dataset for deep learning assisted search and rescue with satellite imagery. arXiv. https://arxiv.org/abs/2107.12469
